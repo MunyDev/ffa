@@ -1,1 +1,2 @@
-asdf
+# test
+::deliverable{file="index.txt"}
