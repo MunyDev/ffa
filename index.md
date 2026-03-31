@@ -1,2 +1,2 @@
 # test
-::deliverable{file="index.txt"}
+::deliverable{ref="main.txt"}
